@@ -11,3 +11,9 @@ Welcome to my blog repository! This space is where I write and share articles on
 
 2. **Episode 2:**  
    _Coming soon…_
+
+
+## 🔗 Quick Links
+
+- **Blog Home** · [Medium](https://medium.com/@bhookyauday)
+- **LinkedIn** - [LinkedIn Profile](https://www.linkedin.com/in/uday-chandra/)
