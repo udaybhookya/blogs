@@ -2,6 +2,11 @@
 
 Welcome to my blog repository! This space is where I write and share articles on topics I’m passionate about — from Artificial Intelligence, Machine Learning and Gen AI!
 
+## 🔗 Quick Links
+
+- **Blog Home** · [Medium](https://medium.com/@bhookyauday)
+- **LinkedIn** - [LinkedIn Profile](https://www.linkedin.com/in/uday-chandra/)
+
 ## 🚀 What’s Inside
 
 1. **Statistical Significance Tests: A statistical way to compare data populations**  
@@ -29,7 +34,3 @@ Welcome to my blog repository! This space is where I write and share articles on
    _Coming soon…_
 
 
-## 🔗 Quick Links
-
-- **Blog Home** · [Medium](https://medium.com/@bhookyauday)
-- **LinkedIn** - [LinkedIn Profile](https://www.linkedin.com/in/uday-chandra/)
